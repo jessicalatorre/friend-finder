@@ -6,6 +6,6 @@ Once the questionnaire is submitted, the score for each question is compared wit
 
 The application uses Node.js and Express server on the backend and the Bootstrap framework on the frontend.
 
-# Demo
+## Demo
 
 Click HERE to view a deployed version on Heroku.
