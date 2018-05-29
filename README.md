@@ -8,4 +8,4 @@ The application uses Node.js and Express server on the backend and the Bootstrap
 
 ## Demo
 
-Click HERE to view a deployed version on Heroku.
+Click this this link to view a deployed version on Heroku: https://git.heroku.com/vast-eyrie-39399.git
